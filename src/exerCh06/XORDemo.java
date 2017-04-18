@@ -23,6 +23,7 @@ public class XORDemo {
 		//取得值後貼到小算盤(2進位)，再轉換為10進位，必與z相同．
 		//故z為x與y分別轉為2進位後，進行互斥或運算，再轉換為10進位所得之值．
 		
+		//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 		
 		System.out.println("-----------------------");
 		System.out.println("r=" + r);
